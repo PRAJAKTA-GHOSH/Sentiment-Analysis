@@ -1,0 +1,8 @@
+Comments,True Sentiment,Predicted Sentiment,Confidence Score
+,"Negative""","Neutral""",0.3368065707741372
+product quality amazing,"Negative""","Neutral""",0.34203033883811695
+app interface confusing,"Negative""","Neutral""",0.34203033883811695
+love new feature update,"Positive""","Neutral""",0.34203161344885674
+fast efficient customer support,"Neutral""","Positive""",0.33798733201263764
+randomtext,"Neutral""","Neutral""",0.3368065707741372
+room clean noisy,"Positive""","Neutral""",0.34203161344885674
